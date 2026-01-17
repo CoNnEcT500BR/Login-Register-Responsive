@@ -95,7 +95,7 @@ O layout se adapta automaticamente a diferentes tamanhos de tela, garantindo uma
 
 ---
 
-##📌 Observações
+## 📌 Observações
 
 - Este projeto é apenas front-end
 - Não possui validação de dados ou autenticação real
